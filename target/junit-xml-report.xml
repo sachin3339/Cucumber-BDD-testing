@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="25.517502">
+<testcase classname="Checking Gmail WebApp title" name="Validate Registration field" time="25.517502">
+<system-out><![CDATA[Given User On Gmail click on Next check gmail title.........................passed
+When I enter username as "Alex" and password as "Alex1234"..................passed
+And filled all the required registration information........................passed
+And I submit login page.....................................................passed
+Then confirmation email is sent.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
